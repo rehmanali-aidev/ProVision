@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <script src="./js/app.js" type="module" defer></script>
+    <title>STORE-ProVision</title>
+</head>
+<body>
+        <main class="nav-container">
+            <nav class="nav-hero container">
+                <h2 class="logo"><a href="index.html">ProVision</a></h2>
+                <div class="li-container">
+                    <ul class="links">
+                        <li class="nav-items"><a href="./index.html">Home</a></li>
+                        <li class="nav-items"><a href="./store.html">Store</a></li>
+                        <li class="nav-items"><a href="./about.html">About</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </main>
+    <section class="main-store-container container">
+        <h1 class="St-head">Core Inventory</h1>
+        <div class="filter">
+            <div class="div-search field">
+                    <label for="search">Search</label>
+                    <input type="search" placeholder="Enter the Product" id="search">
+            </div>
+            <div class="div-category field">
+                    <label for="cate">Category</label>
+                    <select name="category" id="cate">
+                        <option value="all">All</option>
+                    </select>
+            </div>  
+            <div class="sort-by field">
+                    <label for="sort">Sort-by</label>
+                    <select name="sort-price" id="sort">
+                        <option value="price-desc">Price High to Low</option>
+                        <option value="price-asc">Price Low to High</option>
+                    </select>
+            </div>  
+        </div>
+        <div class="product-grid">
+            <ul class="products">
+                
+            </ul>
+        </div>
+    </section>
+</body>
+</html>

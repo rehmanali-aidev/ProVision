@@ -1,0 +1,802 @@
+[
+    {
+        "id": 1,
+        "name": "ProVision Nebula 16",
+        "category": "Laptops",
+        "price": 1499,
+        "image": "https://picsum.photos/seed/1/800/600",
+        "specs": "RTX 5060 | 32GB RAM | 1TB SSD"
+    },
+    {
+        "id": 2,
+        "name": "Apex Mechanical X",
+        "category": "Keyboards",
+        "price": 149,
+        "image": "https://picsum.photos/seed/2/800/600",
+        "specs": "Mechanical | RGB | Wireless"
+    },
+    {
+        "id": 3,
+        "name": "ProVision Horizon 27",
+        "category": "Monitors",
+        "price": 349,
+        "image": "https://picsum.photos/seed/3/800/600",
+        "specs": "1440p | 165Hz | IPS"
+    },
+    {
+        "id": 4,
+        "name": "ProVision Swift Air",
+        "category": "Mice",
+        "price": 79,
+        "image": "https://picsum.photos/seed/4/800/600",
+        "specs": "Wireless | 58g | 26K DPI"
+    },
+    {
+        "id": 5,
+        "name": "ProVision Echo Wireless",
+        "category": "Headphones",
+        "price": 199,
+        "image": "https://picsum.photos/seed/5/800/600",
+        "specs": "Wireless | ANC | 40hr Battery"
+    },
+    {
+        "id": 6,
+        "name": "Apex Vortex 15",
+        "category": "Laptops",
+        "price": 1299,
+        "image": "https://picsum.photos/seed/6/800/600",
+        "specs": "RTX 5050 | 16GB RAM | 512GB SSD"
+    },
+    {
+        "id": 7,
+        "name": "ProVision Keystone 75",
+        "category": "Keyboards",
+        "price": 119,
+        "image": "https://picsum.photos/seed/7/800/600",
+        "specs": "Hot-Swap | Gasket Mount | Wired"
+    },
+    {
+        "id": 8,
+        "name": "Apex Vision 32",
+        "category": "Monitors",
+        "price": 499,
+        "image": "https://picsum.photos/seed/8/800/600",
+        "specs": "4K | 144Hz | HDR600"
+    },
+    {
+        "id": 9,
+        "name": "Apex Phantom",
+        "category": "Mice",
+        "price": 99,
+        "image": "https://picsum.photos/seed/9/800/600",
+        "specs": "Wireless | 8K Polling | 30K DPI"
+    },
+    {
+        "id": 10,
+        "name": "Apex Sonic 7.1",
+        "category": "Headphones",
+        "price": 129,
+        "image": "https://picsum.photos/seed/10/800/600",
+        "specs": "Wired | 7.1 Surround | Detachable Mic"
+    },
+    {
+        "id": 11,
+        "name": "ProVision Aurora 14",
+        "category": "Laptops",
+        "price": 1099,
+        "image": "https://picsum.photos/seed/11/800/600",
+        "specs": "Core Ultra 7 | 16GB RAM | 1TB SSD"
+    },
+    {
+        "id": 12,
+        "name": "Nebula TKL",
+        "category": "Keyboards",
+        "price": 99,
+        "image": "https://picsum.photos/seed/12/800/600",
+        "specs": "Mechanical | RGB | Tenkeyless"
+    },
+    {
+        "id": 13,
+        "name": "Nebula Curve 34",
+        "category": "Monitors",
+        "price": 549,
+        "image": "https://picsum.photos/seed/13/800/600",
+        "specs": "Ultrawide | 1440p | 165Hz"
+    },
+    {
+        "id": 14,
+        "name": "Nebula Grip",
+        "category": "Mice",
+        "price": 59,
+        "image": "https://picsum.photos/seed/14/800/600",
+        "specs": "Wired | RGB | 16K DPI"
+    },
+    {
+        "id": 15,
+        "name": "Nebula Pulse",
+        "category": "Headphones",
+        "price": 249,
+        "image": "https://picsum.photos/seed/15/800/600",
+        "specs": "Wireless | Low Latency | 50mm Drivers"
+    },
+    {
+        "id": 16,
+        "name": "Titan Forge 17",
+        "category": "Laptops",
+        "price": 2399,
+        "image": "https://picsum.photos/seed/16/800/600",
+        "specs": "RTX 5080 | 64GB RAM | 2TB SSD"
+    },
+    {
+        "id": 17,
+        "name": "Vortex 60 Pro",
+        "category": "Keyboards",
+        "price": 129,
+        "image": "https://picsum.photos/seed/17/800/600",
+        "specs": "Optical Switches | Wireless | 60% Layout"
+    },
+    {
+        "id": 18,
+        "name": "Titan View 24",
+        "category": "Monitors",
+        "price": 179,
+        "image": "https://picsum.photos/seed/18/800/600",
+        "specs": "1080p | 240Hz | IPS"
+    },
+    {
+        "id": 19,
+        "name": "Vortex Lite",
+        "category": "Mice",
+        "price": 89,
+        "image": "https://picsum.photos/seed/19/800/600",
+        "specs": "Ultralight | Wireless | 55g"
+    },
+    {
+        "id": 20,
+        "name": "Titan Bass",
+        "category": "Headphones",
+        "price": 169,
+        "image": "https://picsum.photos/seed/20/800/600",
+        "specs": "Wired | Bass Boost | RGB"
+    },
+    {
+        "id": 21,
+        "name": "ProVision Helix 13",
+        "category": "Laptops",
+        "price": 949,
+        "image": "https://picsum.photos/seed/21/800/600",
+        "specs": "Ryzen 7 | 16GB RAM | 512GB SSD"
+    },
+    {
+        "id": 22,
+        "name": "ProVision Typist Pro",
+        "category": "Keyboards",
+        "price": 89,
+        "image": "https://picsum.photos/seed/22/800/600",
+        "specs": "Low Profile | Bluetooth | Quiet Switches"
+    },
+    {
+        "id": 23,
+        "name": "ProVision Lumina 27 OLED",
+        "category": "Monitors",
+        "price": 799,
+        "image": "https://picsum.photos/seed/23/800/600",
+        "specs": "QHD OLED | 240Hz | HDR"
+    },
+    {
+        "id": 24,
+        "name": "ProVision Ergo Pro",
+        "category": "Mice",
+        "price": 109,
+        "image": "https://picsum.photos/seed/24/800/600",
+        "specs": "Ergonomic | Wireless | Silent Clicks"
+    },
+    {
+        "id": 25,
+        "name": "ProVision Studio Monitor",
+        "category": "Headphones",
+        "price": 179,
+        "image": "https://picsum.photos/seed/25/800/600",
+        "specs": "Studio Tuned | Wired | 45mm Drivers"
+    },
+    {
+        "id": 26,
+        "name": "Quantum Blade 15",
+        "category": "Laptops",
+        "price": 1799,
+        "image": "https://picsum.photos/seed/26/800/600",
+        "specs": "RTX 5070 | 32GB RAM | 1TB SSD"
+    },
+    {
+        "id": 27,
+        "name": "Forge Command 104",
+        "category": "Keyboards",
+        "price": 159,
+        "image": "https://picsum.photos/seed/27/800/600",
+        "specs": "Mechanical | Aluminum Frame | Full Size"
+    },
+    {
+        "id": 28,
+        "name": "Vortex Edge 25",
+        "category": "Monitors",
+        "price": 229,
+        "image": "https://picsum.photos/seed/28/800/600",
+        "specs": "1080p | 360Hz | Fast IPS"
+    },
+    {
+        "id": 29,
+        "name": "Titan Claw",
+        "category": "Mice",
+        "price": 69,
+        "image": "https://picsum.photos/seed/29/800/600",
+        "specs": "Wired | 12 Buttons | 20K DPI"
+    },
+    {
+        "id": 30,
+        "name": "Vortex Buds Pro",
+        "category": "Headphones",
+        "price": 149,
+        "image": "https://picsum.photos/seed/30/800/600",
+        "specs": "True Wireless | ANC | 30hr Battery"
+    },
+    {
+        "id": 31,
+        "name": "ProVision Atlas Pro 16",
+        "category": "Laptops",
+        "price": 1699,
+        "image": "https://picsum.photos/seed/31/800/600",
+        "specs": "Core Ultra 9 | 32GB RAM | 1TB SSD"
+    },
+    {
+        "id": 32,
+        "name": "Specter 65",
+        "category": "Keyboards",
+        "price": 139,
+        "image": "https://picsum.photos/seed/32/800/600",
+        "specs": "Hot-Swap | RGB | Magnetic Switches"
+    },
+    {
+        "id": 33,
+        "name": "Stratos Pro 32",
+        "category": "Monitors",
+        "price": 699,
+        "image": "https://picsum.photos/seed/33/800/600",
+        "specs": "4K | IPS | USB-C 90W"
+    },
+    {
+        "id": 34,
+        "name": "Specter Edge",
+        "category": "Mice",
+        "price": 129,
+        "image": "https://picsum.photos/seed/34/800/600",
+        "specs": "Wireless | Optical Switches | 8K Polling"
+    },
+    {
+        "id": 35,
+        "name": "Specter Elite",
+        "category": "Headphones",
+        "price": 299,
+        "image": "https://picsum.photos/seed/35/800/600",
+        "specs": "Wireless | ANC | Hi-Res Audio"
+    },
+    {
+        "id": 36,
+        "name": "Stratos Air 14",
+        "category": "Laptops",
+        "price": 1199,
+        "image": "https://picsum.photos/seed/36/800/600",
+        "specs": "OLED Display | 16GB RAM | 1TB SSD"
+    },
+    {
+        "id": 37,
+        "name": "ProVision Lattice 80",
+        "category": "Keyboards",
+        "price": 109,
+        "image": "https://picsum.photos/seed/37/800/600",
+        "specs": "Gasket Mount | Wireless | PBT Keycaps"
+    },
+    {
+        "id": 38,
+        "name": "ProVision Panorama 49",
+        "category": "Monitors",
+        "price": 1099,
+        "image": "https://picsum.photos/seed/38/800/600",
+        "specs": "Super Ultrawide | 1440p | 144Hz"
+    },
+    {
+        "id": 39,
+        "name": "ProVision Cursor X",
+        "category": "Mice",
+        "price": 49,
+        "image": "https://picsum.photos/seed/39/800/600",
+        "specs": "Wired | 6 Buttons | 12K DPI"
+    },
+    {
+        "id": 40,
+        "name": "ProVision Aura 360",
+        "category": "Headphones",
+        "price": 229,
+        "image": "https://picsum.photos/seed/40/800/600",
+        "specs": "Spatial Audio | Wireless | RGB"
+    },
+    {
+        "id": 41,
+        "name": "ProVision Eclipse 17",
+        "category": "Laptops",
+        "price": 2799,
+        "image": "https://picsum.photos/seed/41/800/600",
+        "specs": "RTX 5090 | 64GB RAM | 4TB SSD"
+    },
+    {
+        "id": 42,
+        "name": "Titan Strike",
+        "category": "Keyboards",
+        "price": 179,
+        "image": "https://picsum.photos/seed/42/800/600",
+        "specs": "Rapid Trigger | 8K Polling | Aluminum Frame"
+    },
+    {
+        "id": 43,
+        "name": "Quantum Frame 27",
+        "category": "Monitors",
+        "price": 399,
+        "image": "https://picsum.photos/seed/43/800/600",
+        "specs": "4K | 60Hz | Factory Calibrated"
+    },
+    {
+        "id": 44,
+        "name": "Halo Travel",
+        "category": "Mice",
+        "price": 39,
+        "image": "https://picsum.photos/seed/44/800/600",
+        "specs": "Bluetooth | Compact | Rechargeable"
+    },
+    {
+        "id": 45,
+        "name": "Halo Comfort",
+        "category": "Headphones",
+        "price": 119,
+        "image": "https://picsum.photos/seed/45/800/600",
+        "specs": "Wireless | Memory Foam | 60hr Battery"
+    },
+    {
+        "id": 46,
+        "name": "Nova Strike 16",
+        "category": "Laptops",
+        "price": 1599,
+        "image": "https://picsum.photos/seed/46/800/600",
+        "specs": "RTX 5070 Ti | 32GB RAM | 1TB SSD"
+    },
+    {
+        "id": 47,
+        "name": "Halo Slim",
+        "category": "Keyboards",
+        "price": 79,
+        "image": "https://picsum.photos/seed/47/800/600",
+        "specs": "Low Profile | Bluetooth | Multi-Device"
+    },
+    {
+        "id": 48,
+        "name": "Blaze Fast 24",
+        "category": "Monitors",
+        "price": 199,
+        "image": "https://picsum.photos/seed/48/800/600",
+        "specs": "1080p | 180Hz | VA"
+    },
+    {
+        "id": 49,
+        "name": "Rift Precision",
+        "category": "Mice",
+        "price": 119,
+        "image": "https://picsum.photos/seed/49/800/600",
+        "specs": "Wireless | 32K DPI | Magnesium Shell"
+    },
+    {
+        "id": 50,
+        "name": "Rift Open-Back",
+        "category": "Headphones",
+        "price": 199,
+        "image": "https://picsum.photos/seed/50/800/600",
+        "specs": "Open-Back | Wired | 50mm Drivers"
+    },
+    {
+        "id": 51,
+        "name": "ProVision Zenith 15",
+        "category": "Laptops",
+        "price": 899,
+        "image": "https://picsum.photos/seed/51/800/600",
+        "specs": "Ryzen 5 | 16GB RAM | 512GB SSD"
+    },
+    {
+        "id": 52,
+        "name": "ProVision Chroma 96",
+        "category": "Keyboards",
+        "price": 129,
+        "image": "https://picsum.photos/seed/52/800/600",
+        "specs": "Mechanical | RGB | Dial Knob"
+    },
+    {
+        "id": 53,
+        "name": "ProVision Studio 27",
+        "category": "Monitors",
+        "price": 649,
+        "image": "https://picsum.photos/seed/53/800/600",
+        "specs": "5K | IPS | Thunderbolt"
+    },
+    {
+        "id": 54,
+        "name": "ProVision Vertical V2",
+        "category": "Mice",
+        "price": 85,
+        "image": "https://picsum.photos/seed/54/800/600",
+        "specs": "Vertical | Bluetooth | Multi-Device"
+    },
+    {
+        "id": 55,
+        "name": "ProVision Quiet One",
+        "category": "Headphones",
+        "price": 349,
+        "image": "https://picsum.photos/seed/55/800/600",
+        "specs": "Wireless | Adaptive ANC | 35hr Battery"
+    },
+    {
+        "id": 56,
+        "name": "Vector Prime 14",
+        "category": "Laptops",
+        "price": 1349,
+        "image": "https://picsum.photos/seed/56/800/600",
+        "specs": "Core Ultra 7 | 32GB RAM | 1TB SSD"
+    },
+    {
+        "id": 57,
+        "name": "Rift Wireless 75",
+        "category": "Keyboards",
+        "price": 149,
+        "image": "https://picsum.photos/seed/57/800/600",
+        "specs": "Tri-Mode | Hot-Swap | Gasket Mount"
+    },
+    {
+        "id": 58,
+        "name": "Eclipse Curve 32",
+        "category": "Monitors",
+        "price": 449,
+        "image": "https://picsum.photos/seed/58/800/600",
+        "specs": "1440p | 170Hz | Curved VA"
+    },
+    {
+        "id": 59,
+        "name": "Quantum Click",
+        "category": "Mice",
+        "price": 75,
+        "image": "https://picsum.photos/seed/59/800/600",
+        "specs": "Wired | Optical Switches | 26K DPI"
+    },
+    {
+        "id": 60,
+        "name": "Quantum Wave",
+        "category": "Headphones",
+        "price": 139,
+        "image": "https://picsum.photos/seed/60/800/600",
+        "specs": "Wireless | 2.4GHz | Dual Mic"
+    },
+    {
+        "id": 61,
+        "name": "ProVision Orion 16",
+        "category": "Laptops",
+        "price": 1899,
+        "image": "https://picsum.photos/seed/61/800/600",
+        "specs": "RTX 5070 | 32GB RAM | 2TB SSD"
+    },
+    {
+        "id": 62,
+        "name": "Cobalt TKL Pro",
+        "category": "Keyboards",
+        "price": 119,
+        "image": "https://picsum.photos/seed/62/800/600",
+        "specs": "Optical Switches | RGB | Wired"
+    },
+    {
+        "id": 63,
+        "name": "Cipher Flex 28",
+        "category": "Monitors",
+        "price": 329,
+        "image": "https://picsum.photos/seed/63/800/600",
+        "specs": "4K | 60Hz | IPS"
+    },
+    {
+        "id": 64,
+        "name": "Blaze Rush",
+        "category": "Mice",
+        "price": 55,
+        "image": "https://picsum.photos/seed/64/800/600",
+        "specs": "Wired | Lightweight | RGB"
+    },
+    {
+        "id": 65,
+        "name": "Blaze Arena",
+        "category": "Headphones",
+        "price": 99,
+        "image": "https://picsum.photos/seed/65/800/600",
+        "specs": "Wired | Cooling Cushions | 7.1 Surround"
+    },
+    {
+        "id": 66,
+        "name": "Cipher Slim 13",
+        "category": "Laptops",
+        "price": 1049,
+        "image": "https://picsum.photos/seed/66/800/600",
+        "specs": "Ryzen 7 | 16GB RAM | 1TB SSD"
+    },
+    {
+        "id": 67,
+        "name": "ProVision Ergo Split",
+        "category": "Keyboards",
+        "price": 189,
+        "image": "https://picsum.photos/seed/67/800/600",
+        "specs": "Split Layout | Wireless | Tenting Stand"
+    },
+    {
+        "id": 68,
+        "name": "ProVision Aero 16 Portable",
+        "category": "Monitors",
+        "price": 279,
+        "image": "https://picsum.photos/seed/68/800/600",
+        "specs": "1080p | USB-C | Portable"
+    },
+    {
+        "id": 69,
+        "name": "ProVision Master Glide",
+        "category": "Mice",
+        "price": 99,
+        "image": "https://picsum.photos/seed/69/800/600",
+        "specs": "Wireless | Tri-Mode | Silent Scroll"
+    },
+    {
+        "id": 70,
+        "name": "ProVision Sprint Buds",
+        "category": "Headphones",
+        "price": 89,
+        "image": "https://picsum.photos/seed/70/800/600",
+        "specs": "True Wireless | Water Resistant | 24hr Battery"
+    },
+    {
+        "id": 71,
+        "name": "Rogue Pulse 15",
+        "category": "Laptops",
+        "price": 1449,
+        "image": "https://picsum.photos/seed/71/800/600",
+        "specs": "RTX 5060 | 16GB RAM | 1TB SSD"
+    },
+    {
+        "id": 72,
+        "name": "Quiet Storm 100",
+        "category": "Keyboards",
+        "price": 99,
+        "image": "https://picsum.photos/seed/72/800/600",
+        "specs": "Silent Switches | Full Size | Wired"
+    },
+    {
+        "id": 73,
+        "name": "Rogue OLED 34",
+        "category": "Monitors",
+        "price": 1199,
+        "image": "https://picsum.photos/seed/73/800/600",
+        "specs": "Ultrawide OLED | 175Hz | HDR"
+    },
+    {
+        "id": 74,
+        "name": "Cobalt Stealth",
+        "category": "Mice",
+        "price": 65,
+        "image": "https://picsum.photos/seed/74/800/600",
+        "specs": "Wireless | Silent Clicks | 2.4GHz"
+    },
+    {
+        "id": 75,
+        "name": "Cobalt Hi-Fi",
+        "category": "Headphones",
+        "price": 279,
+        "image": "https://picsum.photos/seed/75/800/600",
+        "specs": "Wired | Hi-Res Audio | Detachable Cable"
+    },
+    {
+        "id": 76,
+        "name": "ProVision Vertex 14",
+        "category": "Laptops",
+        "price": 1249,
+        "image": "https://picsum.photos/seed/76/800/600",
+        "specs": "120Hz OLED | 32GB RAM | 1TB SSD"
+    },
+    {
+        "id": 77,
+        "name": "Pulse 60 Mini",
+        "category": "Keyboards",
+        "price": 89,
+        "image": "https://picsum.photos/seed/77/800/600",
+        "specs": "Mechanical | 60% Layout | USB-C"
+    },
+    {
+        "id": 78,
+        "name": "Zenith Office 24",
+        "category": "Monitors",
+        "price": 149,
+        "image": "https://picsum.photos/seed/78/800/600",
+        "specs": "1080p | 75Hz | Eye Care"
+    },
+    {
+        "id": 79,
+        "name": "Rogue Hex",
+        "category": "Mice",
+        "price": 79,
+        "image": "https://picsum.photos/seed/79/800/600",
+        "specs": "Honeycomb Shell | Wired | 18K DPI"
+    },
+    {
+        "id": 80,
+        "name": "Rogue Command",
+        "category": "Headphones",
+        "price": 159,
+        "image": "https://picsum.photos/seed/80/800/600",
+        "specs": "Wireless | Boom Mic | 70hr Battery"
+    },
+    {
+        "id": 81,
+        "name": "Phantom Edge 17",
+        "category": "Laptops",
+        "price": 2199,
+        "image": "https://picsum.photos/seed/81/800/600",
+        "specs": "RTX 5080 | 32GB RAM | 2TB SSD"
+    },
+    {
+        "id": 82,
+        "name": "ProVision Archon X",
+        "category": "Keyboards",
+        "price": 199,
+        "image": "https://picsum.photos/seed/82/800/600",
+        "specs": "Magnetic Switches | Rapid Trigger | RGB"
+    },
+    {
+        "id": 83,
+        "name": "ProVision Prism 32",
+        "category": "Monitors",
+        "price": 599,
+        "image": "https://picsum.photos/seed/83/800/600",
+        "specs": "4K | Mini-LED | HDR1000"
+    },
+    {
+        "id": 84,
+        "name": "ProVision Orbit Trackball",
+        "category": "Mice",
+        "price": 95,
+        "image": "https://picsum.photos/seed/84/800/600",
+        "specs": "Trackball | Bluetooth | Ergonomic"
+    },
+    {
+        "id": 85,
+        "name": "ProVision Summit",
+        "category": "Headphones",
+        "price": 399,
+        "image": "https://picsum.photos/seed/85/800/600",
+        "specs": "Wireless | ANC | Spatial Audio"
+    },
+    {
+        "id": 86,
+        "name": "Lumen Studio 16",
+        "category": "Laptops",
+        "price": 1999,
+        "image": "https://picsum.photos/seed/86/800/600",
+        "specs": "Mini-LED | 64GB RAM | 2TB SSD"
+    },
+    {
+        "id": 87,
+        "name": "Drift Compact",
+        "category": "Keyboards",
+        "price": 69,
+        "image": "https://picsum.photos/seed/87/800/600",
+        "specs": "Low Profile | Bluetooth | Rechargeable"
+    },
+    {
+        "id": 88,
+        "name": "Vector Pro 27",
+        "category": "Monitors",
+        "price": 429,
+        "image": "https://picsum.photos/seed/88/800/600",
+        "specs": "1440p | 240Hz | Fast IPS"
+    },
+    {
+        "id": 89,
+        "name": "Eclipse Pro",
+        "category": "Mice",
+        "price": 139,
+        "image": "https://picsum.photos/seed/89/800/600",
+        "specs": "Wireless | 8K Polling | Charging Dock"
+    },
+    {
+        "id": 90,
+        "name": "Eclipse Lite",
+        "category": "Headphones",
+        "price": 59,
+        "image": "https://picsum.photos/seed/90/800/600",
+        "specs": "Wired | Lightweight | Inline Mic"
+    },
+    {
+        "id": 91,
+        "name": "ProVision Echo Go 14",
+        "category": "Laptops",
+        "price": 799,
+        "image": "https://picsum.photos/seed/91/800/600",
+        "specs": "Core Ultra 5 | 16GB RAM | 512GB SSD"
+    },
+    {
+        "id": 92,
+        "name": "Monarch 108",
+        "category": "Keyboards",
+        "price": 169,
+        "image": "https://picsum.photos/seed/92/800/600",
+        "specs": "Mechanical | Wireless | Aluminum Case"
+    },
+    {
+        "id": 93,
+        "name": "Orion Wide 38",
+        "category": "Monitors",
+        "price": 899,
+        "image": "https://picsum.photos/seed/93/800/600",
+        "specs": "Ultrawide | 1600p | USB-C Hub"
+    },
+    {
+        "id": 94,
+        "name": "Zenith Office Mouse",
+        "category": "Mice",
+        "price": 29,
+        "image": "https://picsum.photos/seed/94/800/600",
+        "specs": "Wireless | Silent Clicks | 1600 DPI"
+    },
+    {
+        "id": 95,
+        "name": "Zenith Office Headset",
+        "category": "Headphones",
+        "price": 109,
+        "image": "https://picsum.photos/seed/95/800/600",
+        "specs": "Wireless | Noise-Cancelling Mic | Dual Device"
+    },
+    {
+        "id": 96,
+        "name": "Blaze Core 15",
+        "category": "Laptops",
+        "price": 999,
+        "image": "https://picsum.photos/seed/96/800/600",
+        "specs": "RTX 5050 | 16GB RAM | 512GB SSD"
+    },
+    {
+        "id": 97,
+        "name": "ProVision Spark 65",
+        "category": "Keyboards",
+        "price": 109,
+        "image": "https://picsum.photos/seed/97/800/600",
+        "specs": "Hot-Swap | RGB | PBT Keycaps"
+    },
+    {
+        "id": 98,
+        "name": "ProVision Lite 22",
+        "category": "Monitors",
+        "price": 129,
+        "image": "https://picsum.photos/seed/98/800/600",
+        "specs": "1080p | 75Hz | IPS"
+    },
+    {
+        "id": 99,
+        "name": "ProVision Strike Mini",
+        "category": "Mice",
+        "price": 69,
+        "image": "https://picsum.photos/seed/99/800/600",
+        "specs": "Wireless | 49g | 22K DPI"
+    },
+    {
+        "id": 100,
+        "name": "ProVision Apex Max",
+        "category": "Headphones",
+        "price": 449,
+        "image": "https://picsum.photos/seed/100/800/600",
+        "specs": "Wireless | Premium ANC | 60hr Battery"
+    }
+]
